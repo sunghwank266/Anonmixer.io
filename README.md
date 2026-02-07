@@ -3,6 +3,8 @@ AnonMixer.io is a cryptocurrency mixing service designed to enhance transaction 
 # External links
 
 Official website: [https://anonmixer.io](https://anonmixer.io)  
+Telegram: @anonmixer_support  
+Email: support@anonmixer.io
 
 # Overview
 
